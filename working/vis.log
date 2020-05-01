@@ -1,0 +1,11 @@
+---- vis / ericw-tools v0.18.1 ----
+running with 4 threads
+testlevel = 4
+LoadBSPFile: 'floorbyfloor.bsp'
+BSP is version 29
+  2701 leafs
+  8707 portals
+Calculating Base Vis:
+0....1....2....3....4....5....6....7....8....9....
+Calculating Full Vis:
+0....1....2....3....4....5...
