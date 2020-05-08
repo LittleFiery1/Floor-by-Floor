@@ -1,9 +1,0 @@
-suicide
-die
-blow up
-kill
-developer 1
-restart
-developer 1
-restart
-map lavalab
