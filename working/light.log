@@ -4,12 +4,12 @@ running with 4 threads
 LoadBSPFile: 'floorbyfloor.bsp'
 BSP is version 29
 --- LoadEntities ---
-15 entities read, 0 are lights.
+103 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	861 sky faces
-	16869 solid faces
+	887 sky faces
+	16234 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -25,7 +25,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing floorbyfloor.bsp as BSP version 29
-2.211 seconds elapsed
+2.103 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
