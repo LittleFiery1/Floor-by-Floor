@@ -3,16 +3,16 @@ running with 4 threads
 testlevel = 4
 LoadBSPFile: 'floorbyfloor.bsp'
 BSP is version 29
-  3126 leafs
- 10385 portals
+  4612 leafs
+ 16686 portals
 State file is out of date, will be overwritten
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 674
+average leafs visible: 871
 c_noclip: 0
-c_chains: 1444401086
-visdatasize:474591  compressed from 1222266
+c_chains: 3771921479
+visdatasize:928346  compressed from 2661124
 Writing floorbyfloor.bsp as BSP version 29
-8102.3 seconds elapsed
+27026.8 seconds elapsed

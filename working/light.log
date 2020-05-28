@@ -1,34 +1,35 @@
 ---- light / ericw-tools v0.18.1 ----
+extra 4x4 sampling enabled
 Raytracing backend: Embree
 running with 4 threads
 LoadBSPFile: 'floorbyfloor.bsp'
 BSP is version 29
 --- LoadEntities ---
-187 entities read, 64 are lights.
+203 entities read, 80 are lights.
 --- OptionsSummary ---
-    "sunlight" was set to "300.000000" from map
+    "sunlight" was set to "150.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	827 sky faces
-	12460 solid faces
+	805 sky faces
+	14685 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 64 initial lights
-SetupLights: 64 after surface lights
-SetupLights: 64 after jittering
+SetupLights: 80 initial lights
+SetupLights: 80 after surface lights
+SetupLights: 80 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 64 lights 1 suns in use.
+Final count: 80 lights 2 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 835853
+lightdatasize: 843013
 0 switchable light styles (32 max)
 Writing floorbyfloor.bsp as BSP version 29
-1.707 seconds elapsed
+7.300 seconds elapsed
 
 stats:
-0.353462 lights tested, 0.269932 hits per sample point
+0.463438 lights tested, 0.239855 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
