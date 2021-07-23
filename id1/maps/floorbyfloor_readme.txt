@@ -18,7 +18,7 @@ Sounds                  : Yes
 Music                   : Yes
 Graphics                : I don't see why it would be missing graphics :/
 Other                   : No
-Other files required    : (list unusual files the player is expected to have)
+Other files required    : None
 
 
 * Play Information *
